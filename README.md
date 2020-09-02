@@ -12,7 +12,11 @@ Linux dominates in Action Roleplaying Games (think: Diablo 1, Diablo 2, and Dota
 and First-person Shooters (think CS:GO and Team Fortress 2).
 
 Therefore if you want MMORPG's you'll want to go with either.
+
 Therefore if you want Action RP'ing games you'll want to go with Linux
+
 Therefore if you want Shooter games you'll want Linux
+
 Therefore if you want Battle Royale games you'll want Windows
+
 Therefore if you want Open World games you'll want Windows
