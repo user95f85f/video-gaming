@@ -11,6 +11,8 @@ Windows dominates in MMORPG's (think: BDO and Tree of Savior), Battle Royale gam
 Linux dominates in Action Roleplaying Games (think: Diablo 1, Diablo 2, and Dota 2),
 and First-person Shooters (think Borderlands 2, CS:GO, and Team Fortress 2).
 
+Linux dominates in gaming programming via Diablo 2 D2S save editing.
+
 Therefore if you want MMORPG's you'll want to go with either (because of World of Warcraft)
 
 Therefore if you want Action RP'ing games you'll want to go with Linux
