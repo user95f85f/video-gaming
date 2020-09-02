@@ -36,5 +36,24 @@ for($i=0; $i<count($arGamelist2); $i++)
 }
 
 }
-
+/*
+example outputs:
+Fortnite, CoD: warzone, GTA5, Minecraft (controller), Skyrim, WoW, Tree of Savior, BDO
+---
+BDO, Skyrim, Fortnite, CoD: warzone, Minecraft (controller), GTA5, WoW, Tree of Savior
+---
+GTA5, WoW, Minecraft (controller), CoD: warzone, BDO, Tree of Savior, Skyrim, Fortnite
+---
+MMORPGs: WoW, BDO, Tree of Savior
+Battle royale: CoD: warzone, Fortnite
+Single-player open world: GTA5, Skyrim, Just Cause 2 demo, Minecraft (controller)
+---
+Single-player open world: GTA5, Minecraft (controller), Just Cause 2 demo, Skyrim
+Battle royale: Fortnite, CoD: warzone
+MMORPGs: BDO, Tree of Savior, WoW
+---
+Battle royale: CoD: warzone, Fortnite
+MMORPGs: BDO, Tree of Savior, WoW
+Single-player open world: Just Cause 2 demo, Skyrim, Minecraft (controller), GTA5
+*/
 ?>
