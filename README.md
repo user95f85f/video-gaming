@@ -20,3 +20,7 @@ Therefore if you want Shooter games you'll want Linux
 Therefore if you want Battle Royale games you'll want Windows
 
 Therefore if you want Open World games you'll want Windows
+
+Windows is 74%online/26%offline 83%sure
+
+Linux is 9%online/91%offline 71%sure
