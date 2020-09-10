@@ -1,15 +1,15 @@
 # video-gaming
 Windows VS Linux
 
-Linux has 9 solid games.
+Linux has 6 solid games.
 
 Windows has 9 solid games.
 
 Windows dominates in MMORPG's (think: BDO and Tree of Savior), Battle Royale games
 (think: Fortnite and CoD: warzone), and Open-World (think: GTA5 and Skyrim).
 
-Linux dominates in Action Roleplaying Games (think: Diablo 1, Diablo 2, and Dota 2),
-and First-person Shooters (think Borderlands 2, CS:GO, and Team Fortress 2).
+Linux dominates in Action Roleplaying Games (think: Diablo 1 and Diablo 2),
+and First-person Shooters (think Borderlands 2 and Team Fortress 2).
 
 Linux dominates in gaming programming via Diablo 2 D2S save editing.
 
@@ -25,4 +25,4 @@ Therefore if you want Open World games you'll want Windows (because of Skyrim an
 
 Windows is 74%online/26%offline 83%sure
 
-Linux is 9%online/91%offline 71%sure
+Linux is 12%online/88%offline 80%sure
