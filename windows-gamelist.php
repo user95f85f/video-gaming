@@ -39,11 +39,11 @@ for($i=0; $i<count($arGamelist2); $i++)
 }
 /*
 example outputs:
-Fortnite, CoD: warzone, GTA5, Minecraft (controller), Skyrim, WoW, Tree of Savior, BDO
+Fortnite, CoD: warzone, GTA5, Minecraft (controller), Skyrim, WoW, Tree of Savior, BDO, Just Cause 2 demo
 ---
-BDO, Skyrim, Fortnite, CoD: warzone, Minecraft (controller), GTA5, WoW, Tree of Savior
+BDO, Skyrim, Fortnite, CoD: warzone, Minecraft (controller), GTA5, WoW, Tree of Savior, Just Cause 2 demo
 ---
-GTA5, WoW, Minecraft (controller), CoD: warzone, BDO, Tree of Savior, Skyrim, Fortnite
+GTA5, WoW, Minecraft (controller), CoD: warzone, BDO, Tree of Savior, Skyrim, Fortnite, Just Cause 2 demo
 ---
 MMORPGs: WoW, BDO, Tree of Savior
 Battle royale: CoD: warzone, Fortnite
