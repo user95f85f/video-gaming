@@ -9,6 +9,7 @@ Fortnite
 Minecraft (controller)
 Skyrim
 GTA5
+Just Cause 2 demo
 EOF1;
 $gamelist2 = <<<EOF2
 MMORPGs: BDO, WoW, Tree of Savior
