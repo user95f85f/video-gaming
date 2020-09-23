@@ -10,11 +10,12 @@ Minecraft (controller)
 Skyrim
 GTA5
 Just Cause 2 demo
+Fall Guys
 EOF1;
 $gamelist2 = <<<EOF2
 MMORPGs: BDO, WoW, Tree of Savior
 Single-player open world: GTA5, Just Cause 2 demo, Minecraft (controller), Skyrim
-Battle royale: CoD: warzone, Fortnite
+Battle royale: CoD: warzone, Fortnite, Fall Guys
 EOF2;
 
 if(rand(0,1) == 0){
@@ -37,24 +38,22 @@ for($i=0; $i<count($arGamelist2); $i++)
 }
 
 }
-/*
-example outputs:
-Fortnite, CoD: warzone, GTA5, Minecraft (controller), Skyrim, WoW, Tree of Savior, BDO, Just Cause 2 demo
+
+/** example outputs:
+Minecraft (controller), CoD: warzone, GTA5, Just Cause 2 demo, Fall Guys, BDO, WoW, Fortnite, Tree of Savior, Skyrim
+Skyrim, Fortnite, Fall Guys, WoW, Just Cause 2 demo, BDO, CoD: warzone, Minecraft (controller), Tree of Savior, GTA5
+CoD: warzone, Fortnite, GTA5, Tree of Savior, BDO, Skyrim, WoW, Fall Guys, Just Cause 2 demo, Minecraft (controller)
 ---
-BDO, Skyrim, Fortnite, CoD: warzone, Minecraft (controller), GTA5, WoW, Tree of Savior, Just Cause 2 demo
----
-GTA5, WoW, Minecraft (controller), CoD: warzone, BDO, Tree of Savior, Skyrim, Fortnite, Just Cause 2 demo
----
+MMORPGs: WoW, Tree of Savior, BDO
+Single-player open world: Skyrim, Just Cause 2 demo, Minecraft (controller), GTA5
+Battle royale: Fall Guys, CoD: warzone, Fortnite
+--
+Battle royale: Fall Guys, Fortnite, CoD: warzone
 MMORPGs: WoW, BDO, Tree of Savior
-Battle royale: CoD: warzone, Fortnite
 Single-player open world: GTA5, Skyrim, Just Cause 2 demo, Minecraft (controller)
----
-Single-player open world: GTA5, Minecraft (controller), Just Cause 2 demo, Skyrim
-Battle royale: Fortnite, CoD: warzone
-MMORPGs: BDO, Tree of Savior, WoW
----
-Battle royale: CoD: warzone, Fortnite
-MMORPGs: BDO, Tree of Savior, WoW
-Single-player open world: Just Cause 2 demo, Skyrim, Minecraft (controller), GTA5
+-
+Battle royale: Fall Guys, Fortnite, CoD: warzone
+MMORPGs: Tree of Savior, WoW, BDO
+Single-player open world: GTA5, Just Cause 2 demo, Skyrim, Minecraft (controller)
 */
 ?>
