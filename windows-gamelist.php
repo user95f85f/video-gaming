@@ -3,7 +3,6 @@
 $gamelist1 = <<<EOF1
 WoW
 BDO
-Tree of Savior
 CoD: warzone
 Fortnite
 Minecraft (controller)
@@ -14,7 +13,7 @@ Borderlands 2 (wireless controller)
 Team Fortress 2 (wireless controller)
 EOF1;
 $gamelist2 = <<<EOF2
-MMORPGs: BDO, WoW, Tree of Savior
+MMORPGs: BDO, WoW
 Single-player open world: GTA5, Minecraft (controller), Skyrim, Borderlands 2 (wireless controller)
 Battle royale: CoD: warzone, Fortnite, Fall Guys
 First-person shooter: Team Fortress 2 (wireless controller)
