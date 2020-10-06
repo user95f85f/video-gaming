@@ -2,19 +2,15 @@
 <?php
 $gamelist1 = <<<EOF1
 WoW
-BDO
 CoD: warzone
 Fortnite
-Minecraft (controller)
-Skyrim
 GTA5
 Fall Guys
-Borderlands 2 (wireless controller)
 Team Fortress 2 (wireless controller)
 EOF1;
 $gamelist2 = <<<EOF2
-MMORPGs: BDO, WoW
-Single-player open world: GTA5, Minecraft (controller), Skyrim, Borderlands 2 (wireless controller)
+MMORPG: WoW
+Single-player open world: GTA5
 Battle royale: CoD: warzone, Fortnite, Fall Guys
 First-person shooter: Team Fortress 2 (wireless controller)
 EOF2;
